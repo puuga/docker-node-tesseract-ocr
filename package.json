@@ -1,0 +1,23 @@
+{
+  "name": "docker-node-tesseract-ocr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puuga/docker-node-tesseract-ocr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puuga/docker-node-tesseract-ocr/issues"
+  },
+  "homepage": "https://github.com/puuga/docker-node-tesseract-ocr#readme",
+  "dependencies": {
+    "node-tesseract-ocr": "^2.2.0"
+  }
+}
